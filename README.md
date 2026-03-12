@@ -388,9 +388,7 @@ go install github.com/ffuf/ffuf@latest
 
 ## 📞 联系方式
 
-- 📧 Email: security@example.com
-- 💬 GitHub Issues: [提交问题](https://github.com/your-repo/pentest_agent/issues)
-- 💡 Discussions: [参与讨论](https://github.com/your-repo/pentest_agent/discussions)
+- 📧 Email: r0xy520@outlook.com
 
 ---
 
@@ -398,6 +396,6 @@ go install github.com/ffuf/ffuf@latest
 
 **⭐ 如果这个项目对你有帮助，请给一个 Star！⭐**
 
-Made with ❤️ by Security Research Team
 
 </div>
+
