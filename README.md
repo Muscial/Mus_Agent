@@ -375,17 +375,6 @@ go install github.com/ffuf/ffuf@latest
 
 ---
 
-## 🙏 致谢
-
-感谢以下项目的启发：
-
-- [LangChain](https://github.com/langchain-ai/langchain) / [LangGraph](https://github.com/langchain-ai/langgraph)
-- [CyberStrikeAI](https://github.com/404StarLink/CyberStrikeAI)
-- [ctfSolver](https://github.com/xjtuHunter/ctfSolver)
-- [agentxcode001](https://github.com/example/agentxcode001)
-
----
-
 ## 📞 联系方式
 
 - 📧 Email: r0xy520@outlook.com
@@ -398,4 +387,5 @@ go install github.com/ffuf/ffuf@latest
 
 
 </div>
+
 
